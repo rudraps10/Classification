@@ -41,7 +41,7 @@ Predict whether a person has diabetes (1) or not (0) using various medical and p
 
 | Model                | Accuracy |
 |---------------------|----------|
-| K-Nearest Neighbors | ~78%     |
+| K-Nearest Neighbors | ~79%     |
 | Logistic Regression | ~75%     |
 | Random Forest       | ~75%     |
 
